@@ -65,7 +65,8 @@ npm run develop
   git push heroku main
   heroku open
   ```
-
+  ### App Deployed Link:
+  [Click me to see app!](https://fast-lake-99260-0290ed5d6030.herokuapp.com/)
   #### App Screenshot
 
 ![Screenshot](./)
