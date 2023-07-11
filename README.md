@@ -40,8 +40,6 @@ After installing npm packages, the application will be invoked by using the foll
 npm run develop
 ```
 
-[Click me to see app!](https://fast-lake-99260-0290ed5d6030.herokuapp.com/)
-
 - Create heroku app
 
   ```
