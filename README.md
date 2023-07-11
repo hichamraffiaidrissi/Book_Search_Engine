@@ -67,7 +67,10 @@ npm run develop
   [Click me to see app!](/)
   #### App Screenshot
 
-![Screenshot](./)
+![Screenshot](./images/Screenshot-1.png)
+![Screenshot](./images/Screenshot-2.png)
+![Screenshot](./images/Screenshot-3.png)
+
 
 ## License
 
